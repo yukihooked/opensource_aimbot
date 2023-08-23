@@ -51,7 +51,6 @@ function cheat_client:calculate_target()
             continue
         end
         
-
         if not player.Character then -- Checks if exists
             continue
         end
